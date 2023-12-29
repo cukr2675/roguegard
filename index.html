@@ -71,7 +71,7 @@
         streamingAssetsUrl: "StreamingAssets",
         companyName: "CUKR2675",
         productName: "Roguegard",
-        productVersion: "v0.1.0-alpha",
+        productVersion: "v0.2.0-alpha",
         showBanner: unityShowBanner,
       };
 
@@ -115,10 +115,10 @@
       document.body.appendChild(script);
       
       const grippedWebGLTemplate = {
-        aspectRatio: 1.7777777777777777,
+        aspectRatio: null,
         fullscreenOrientation: 'landscape',
         pixelated: false,
-        resizeDelayMilliseconds: 250,
+        resizeDelayMilliseconds: 400,
         resizeTimeoutID: null,
         resize: () => {
           const unityCanvas = document.querySelector('#unity-canvas');
