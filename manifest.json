@@ -1,0 +1,15 @@
+{
+  "name": "Roguegard",
+  "short_name": "ログガル",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "display": "standalone",
+  "orientation": "landscape",
+  "theme_color": "#aaa",
+  "background_color": "#231F20"
+}
