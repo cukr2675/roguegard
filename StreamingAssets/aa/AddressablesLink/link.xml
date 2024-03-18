@@ -29,7 +29,6 @@
     <type fullname="Roguegard.MainInfoKw" preserve="all" />
     <type fullname="Roguegard.SerializableKeywordData" preserve="all" />
     <type fullname="Roguegard.StatsKw" preserve="all" />
-    <type fullname="Roguegard.BoneSprite" preserve="nothing" serialized="true" />
     <type fullname="Roguegard.ScriptField`1[Roguegard.CharacterCreation.IEquippedEffectSource]" preserve="nothing" serialized="true" />
     <type fullname="Roguegard.ScriptField`1[Roguegard.CharacterCreation.ILevelInfoInitializer]" preserve="nothing" serialized="true" />
     <type fullname="Roguegard.ScriptField`1[Roguegard.CharacterCreation.IOpenEffect]" preserve="nothing" serialized="true" />
@@ -57,11 +56,9 @@
   <assembly fullname="Roguegard.CoreData, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="Roguegard.AffectableBoneSpriteTableData" preserve="all" />
     <type fullname="Roguegard.AmmoKw" preserve="all" />
-    <type fullname="Roguegard.BoneKw" preserve="all" />
     <type fullname="Roguegard.CategoryKw" preserve="all" />
     <type fullname="Roguegard.CharacterCreation.AlphabetTypeAppearanceOption" preserve="all" />
     <type fullname="Roguegard.CharacterCreation.AmmoCreationData" preserve="all" />
-    <type fullname="Roguegard.CharacterCreation.BoneData" preserve="all" />
     <type fullname="Roguegard.CharacterCreation.DefaultRaceOption" preserve="all" />
     <type fullname="Roguegard.CharacterCreation.DungeonCreationData" preserve="all" />
     <type fullname="Roguegard.CharacterCreation.DungeonQuestGenerator" preserve="all" />
@@ -95,15 +92,11 @@
     <type fullname="Roguegard.KeywordsRogueGender" preserve="all" />
     <type fullname="Roguegard.KeywordsRogueMaterial" preserve="all" />
     <type fullname="Roguegard.MaterialKw" preserve="all" />
-    <type fullname="Roguegard.MotionSetData" preserve="all" />
     <type fullname="Roguegard.RogueDungeonGenerator" preserve="all" />
     <type fullname="Roguegard.RogueGenderList" preserve="all" />
     <type fullname="Roguegard.RogueTileInfoData" preserve="all" />
-    <type fullname="Roguegard.Rotatable1To8BoneMotionData" preserve="all" />
-    <type fullname="Roguegard.RotatableBoneMotionData" preserve="all" />
-    <type fullname="Roguegard.RotatableLoopBoneMotionData" preserve="all" />
+    <type fullname="Roguegard.SpriteMotionSetData" preserve="all" />
     <type fullname="Roguegard.StdKw" preserve="all" />
-    <type fullname="Roguegard.SymmetricalBonePoseSourceData" preserve="all" />
     <type fullname="Roguegard.AffectableBoneSpriteTableData/Value" preserve="nothing" serialized="true" />
     <type fullname="Roguegard.AffectableBoneSpriteTableData/Value/BoneSpriteColorPair" preserve="nothing" serialized="true" />
     <type fullname="Roguegard.AffectableBoneSpriteTableData/Value/Item" preserve="nothing" serialized="true" />
@@ -122,7 +115,6 @@
     <type fullname="Roguegard.CharacterCreation.BeamSlashSkill" preserve="nothing" serialized="true" />
     <type fullname="Roguegard.CharacterCreation.BlindfoldEquipped" preserve="nothing" serialized="true" />
     <type fullname="Roguegard.CharacterCreation.BlitzWaveSkill" preserve="nothing" serialized="true" />
-    <type fullname="Roguegard.CharacterCreation.BoneData/Node" preserve="nothing" serialized="true" />
     <type fullname="Roguegard.CharacterCreation.BraveHeartAbility" preserve="nothing" serialized="true" />
     <type fullname="Roguegard.CharacterCreation.CalmlyScoldAbility" preserve="nothing" serialized="true" />
     <type fullname="Roguegard.CharacterCreation.CaringAbility" preserve="nothing" serialized="true" />
@@ -187,7 +179,6 @@
     <type fullname="Roguegard.CharacterCreation.WeaponRace" preserve="nothing" serialized="true" />
     <type fullname="Roguegard.ChestOpen" preserve="nothing" serialized="true" />
     <type fullname="Roguegard.ChooseFrom3LevelInfo" preserve="nothing" serialized="true" />
-    <type fullname="Roguegard.ColorRangedBoneSprite" preserve="nothing" serialized="true" />
     <type fullname="Roguegard.CommandApply" preserve="nothing" serialized="true" />
     <type fullname="Roguegard.CommandDownStairs" preserve="nothing" serialized="true" />
     <type fullname="Roguegard.CommandEquip" preserve="nothing" serialized="true" />
@@ -239,7 +230,6 @@
     <type fullname="Roguegard.MaceAttack" preserve="nothing" serialized="true" />
     <type fullname="Roguegard.MedicalHerbBeEaten" preserve="nothing" serialized="true" />
     <type fullname="Roguegard.MeltAttack" preserve="nothing" serialized="true" />
-    <type fullname="Roguegard.MotionSetData/Item" preserve="nothing" serialized="true" />
     <type fullname="Roguegard.MovableObstacleBeApplied" preserve="nothing" serialized="true" />
     <type fullname="Roguegard.NotepadBeApplied" preserve="nothing" serialized="true" />
     <type fullname="Roguegard.NotepadOpen" preserve="nothing" serialized="true" />
@@ -256,9 +246,6 @@
     <type fullname="Roguegard.QuestBoardOpen" preserve="nothing" serialized="true" />
     <type fullname="Roguegard.RandomTrapBeApplied" preserve="nothing" serialized="true" />
     <type fullname="Roguegard.RogueDungeonGenerator/TileArray" preserve="nothing" serialized="true" />
-    <type fullname="Roguegard.Rotatable1To8BoneMotionData/Item" preserve="nothing" serialized="true" />
-    <type fullname="Roguegard.RotatableBoneMotionData/Item" preserve="nothing" serialized="true" />
-    <type fullname="Roguegard.RotatableLoopBoneMotionData/Item" preserve="nothing" serialized="true" />
     <type fullname="Roguegard.RustAttack" preserve="nothing" serialized="true" />
     <type fullname="Roguegard.ScrollOfCleansingBeApplied" preserve="nothing" serialized="true" />
     <type fullname="Roguegard.ScrollOfConfuseMonsterBeApplied" preserve="nothing" serialized="true" />
@@ -267,11 +254,9 @@
     <type fullname="Roguegard.SeatBeApplied" preserve="nothing" serialized="true" />
     <type fullname="Roguegard.SewingMachineBeApplied" preserve="nothing" serialized="true" />
     <type fullname="Roguegard.ShotObjCommand" preserve="nothing" serialized="true" />
+    <type fullname="Roguegard.SpriteMotionSetData/Item" preserve="nothing" serialized="true" />
     <type fullname="Roguegard.StandardLevelInfo" preserve="nothing" serialized="true" />
     <type fullname="Roguegard.SubmachineGunThrow" preserve="nothing" serialized="true" />
-    <type fullname="Roguegard.SymmetricalBonePoseSourceData/BackItem" preserve="nothing" serialized="true" />
-    <type fullname="Roguegard.SymmetricalBonePoseSourceData/Item" preserve="nothing" serialized="true" />
-    <type fullname="Roguegard.SymmetricalBonePoseSourceData/ReorderItem" preserve="nothing" serialized="true" />
     <type fullname="Roguegard.ThronsTrapBeApplied" preserve="nothing" serialized="true" />
     <type fullname="Roguegard.ThrowObjCommand" preserve="nothing" serialized="true" />
     <type fullname="Roguegard.VehicleLocate" preserve="nothing" serialized="true" />
@@ -347,6 +332,23 @@
     <type fullname="RuntimeDotter.DotterHoldButton" preserve="all" />
     <type fullname="RuntimeDotter.DotterPaletteView" preserve="all" />
     <type fullname="RuntimeDotter.DotterToolSet" preserve="all" />
+  </assembly>
+  <assembly fullname="SkeletalSprite, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="SkeletalSprite.BoneKeywordData" preserve="all" />
+    <type fullname="SkeletalSprite.Rotatable1To8SpriteMotionData" preserve="all" />
+    <type fullname="SkeletalSprite.RotatableLoopSpriteMotionData" preserve="all" />
+    <type fullname="SkeletalSprite.RotatableSpriteMotionData" preserve="all" />
+    <type fullname="SkeletalSprite.SkeletalSpriteData" preserve="all" />
+    <type fullname="SkeletalSprite.SymmetricalSpritePoseSourceData" preserve="all" />
+    <type fullname="SkeletalSprite.BoneSprite" preserve="nothing" serialized="true" />
+    <type fullname="SkeletalSprite.ColorRangedBoneSprite" preserve="nothing" serialized="true" />
+    <type fullname="SkeletalSprite.Rotatable1To8SpriteMotionData/Item" preserve="nothing" serialized="true" />
+    <type fullname="SkeletalSprite.RotatableLoopSpriteMotionData/Item" preserve="nothing" serialized="true" />
+    <type fullname="SkeletalSprite.RotatableSpriteMotionData/Item" preserve="nothing" serialized="true" />
+    <type fullname="SkeletalSprite.SkeletalSpriteData/Node" preserve="nothing" serialized="true" />
+    <type fullname="SkeletalSprite.SymmetricalSpritePoseSourceData/BackItem" preserve="nothing" serialized="true" />
+    <type fullname="SkeletalSprite.SymmetricalSpritePoseSourceData/Item" preserve="nothing" serialized="true" />
+    <type fullname="SkeletalSprite.SymmetricalSpritePoseSourceData/ReorderItem" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="Unity.2D.Tilemap.Extras, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.RuleTile" preserve="all" />
