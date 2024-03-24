@@ -17,12 +17,12 @@
     <type fullname="HSVPicker.ColorPickerSetup" preserve="nothing" serialized="true" />
     <type fullname="HSVPicker.ColorPickerSetup/UiElements" preserve="nothing" serialized="true" />
   </assembly>
-  <assembly fullname="ObjectFormer.Unity.RuntimeInspector, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-    <type fullname="ObjectFormer.Unity.RuntimeInspector.ButtonElement" preserve="all" />
-    <type fullname="ObjectFormer.Unity.RuntimeInspector.FormInspector" preserve="all" />
-    <type fullname="ObjectFormer.Unity.RuntimeInspector.InputElement" preserve="all" />
-    <type fullname="ObjectFormer.Unity.RuntimeInspector.LinkElement" preserve="all" />
-    <type fullname="ObjectFormer.Unity.RuntimeInspector.ToggleElement" preserve="all" />
+  <assembly fullname="Objforming.Unity.RuntimeInspector, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Objforming.Unity.RuntimeInspector.ButtonElement" preserve="all" />
+    <type fullname="Objforming.Unity.RuntimeInspector.FormInspector" preserve="all" />
+    <type fullname="Objforming.Unity.RuntimeInspector.InputElement" preserve="all" />
+    <type fullname="Objforming.Unity.RuntimeInspector.LinkElement" preserve="all" />
+    <type fullname="Objforming.Unity.RuntimeInspector.ToggleElement" preserve="all" />
   </assembly>
   <assembly fullname="Roguegard, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="Roguegard.KeywordData" preserve="all" />
@@ -66,6 +66,8 @@
     <type fullname="Roguegard.CharacterCreation.EquipmentCreationData" preserve="all" />
     <type fullname="Roguegard.CharacterCreation.EquipmentStateData" preserve="all" />
     <type fullname="Roguegard.CharacterCreation.FoodCreationData" preserve="all" />
+    <type fullname="Roguegard.CharacterCreation.GoalDungeonLevel" preserve="all" />
+    <type fullname="Roguegard.CharacterCreation.InfoSetSourcedItemCreationData" preserve="all" />
     <type fullname="Roguegard.CharacterCreation.ItemCreationData" preserve="all" />
     <type fullname="Roguegard.CharacterCreation.JsonCreationData" preserve="all" />
     <type fullname="Roguegard.CharacterCreation.LobbyCreationData" preserve="all" />
@@ -202,6 +204,7 @@
     <type fullname="Roguegard.CommonThrow" preserve="nothing" serialized="true" />
     <type fullname="Roguegard.CommonWait" preserve="nothing" serialized="true" />
     <type fullname="Roguegard.CommonWalk" preserve="nothing" serialized="true" />
+    <type fullname="Roguegard.ConstructionKitBeApplied" preserve="nothing" serialized="true" />
     <type fullname="Roguegard.CoreObjCommandTable/Item" preserve="nothing" serialized="true" />
     <type fullname="Roguegard.CostedBeEaten" preserve="nothing" serialized="true" />
     <type fullname="Roguegard.CrossGuardWandAttack" preserve="nothing" serialized="true" />
@@ -264,8 +267,8 @@
     <type fullname="Roguegard.WandOfFireBeApplied" preserve="nothing" serialized="true" />
     <type fullname="Roguegard.WandOfPinningBeApplied" preserve="nothing" serialized="true" />
   </assembly>
-  <assembly fullname="Roguegard.CoreData.ObjectFormer.RuntimeInspector, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-    <type fullname="Roguegard.ObjectFormer.RuntimeInspector.RogueObjListItemElement" preserve="all" />
+  <assembly fullname="Roguegard.CoreData.Objforming.RuntimeInspector, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Roguegard.Objforming.RuntimeInspector.RogueObjListItemElement" preserve="all" />
   </assembly>
   <assembly fullname="RoguegardUnity, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="RoguegardUnity.AnchorBalloon" preserve="all" />
@@ -275,6 +278,8 @@
     <type fullname="RoguegardUnity.CameraController" preserve="all" />
     <type fullname="RoguegardUnity.CaptionWindow" preserve="all" />
     <type fullname="RoguegardUnity.CharacterCreationMenuView" preserve="all" />
+    <type fullname="RoguegardUnity.CharacterCreationMenuViewItemButton" preserve="all" />
+    <type fullname="RoguegardUnity.CharacterCreationStarsItem" preserve="all" />
     <type fullname="RoguegardUnity.ColorPreset" preserve="all" />
     <type fullname="RoguegardUnity.CreditData" preserve="all" />
     <type fullname="RoguegardUnity.DetailsMenuView" preserve="all" />
