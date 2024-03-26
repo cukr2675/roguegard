@@ -138,9 +138,13 @@
     <type fullname="Roguegard.CharacterCreation.FoodRace" preserve="nothing" serialized="true" />
     <type fullname="Roguegard.CharacterCreation.FruitfulGraceAbility" preserve="nothing" serialized="true" />
     <type fullname="Roguegard.CharacterCreation.GenderDifferenceRaceSprite" preserve="nothing" serialized="true" />
+    <type fullname="Roguegard.CharacterCreation.GentleAbility" preserve="nothing" serialized="true" />
+    <type fullname="Roguegard.CharacterCreation.HardyAbility" preserve="nothing" serialized="true" />
+    <type fullname="Roguegard.CharacterCreation.HastyAbility" preserve="nothing" serialized="true" />
     <type fullname="Roguegard.CharacterCreation.IllusionBandEquipped" preserve="nothing" serialized="true" />
     <type fullname="Roguegard.CharacterCreation.ItemMember" preserve="nothing" serialized="true" />
     <type fullname="Roguegard.CharacterCreation.ItemSearchSkill" preserve="nothing" serialized="true" />
+    <type fullname="Roguegard.CharacterCreation.JollyAbility" preserve="nothing" serialized="true" />
     <type fullname="Roguegard.CharacterCreation.LevitationOpen" preserve="nothing" serialized="true" />
     <type fullname="Roguegard.CharacterCreation.LinearRaceWeight" preserve="nothing" serialized="true" />
     <type fullname="Roguegard.CharacterCreation.MartialArtsAbility" preserve="nothing" serialized="true" />
