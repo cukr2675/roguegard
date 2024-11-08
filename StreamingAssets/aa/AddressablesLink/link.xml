@@ -323,8 +323,8 @@
     <type fullname="RoguegardUnity.AnchorKeyCenter" preserve="all" />
     <type fullname="RoguegardUnity.AnchorKeyItem" preserve="all" />
     <type fullname="RoguegardUnity.CameraController" preserve="all" />
-    <type fullname="RoguegardUnity.CharacterCreationMenuView" preserve="all" />
     <type fullname="RoguegardUnity.CharacterCreationStarsItem" preserve="all" />
+    <type fullname="RoguegardUnity.CharacterCreationSubView" preserve="all" />
     <type fullname="RoguegardUnity.CharacterCreationViewElementButton" preserve="all" />
     <type fullname="RoguegardUnity.ColorPreset" preserve="all" />
     <type fullname="RoguegardUnity.CreditData" preserve="all" />
@@ -332,8 +332,7 @@
     <type fullname="RoguegardUnity.HeaderController" preserve="all" />
     <type fullname="RoguegardUnity.HPGauge" preserve="all" />
     <type fullname="RoguegardUnity.MenuController" preserve="all" />
-    <type fullname="RoguegardUnity.MessageController" preserve="all" />
-    <type fullname="RoguegardUnity.PaintMenuView" preserve="all" />
+    <type fullname="RoguegardUnity.PaintSubView" preserve="all" />
     <type fullname="RoguegardUnity.PopNumber" preserve="all" />
     <type fullname="RoguegardUnity.RogueAssetTable" preserve="all" />
     <type fullname="RoguegardUnity.RogueButtonViewElement" preserve="all" />
@@ -347,9 +346,9 @@
     <type fullname="RoguegardUnity.RogueTilemapRenderer" preserve="all" />
     <type fullname="RoguegardUnity.SoundTable" preserve="all" />
     <type fullname="RoguegardUnity.StandardRogueDeviceInspector" preserve="all" />
-    <type fullname="RoguegardUnity.StatsWindow" preserve="all" />
-    <type fullname="RoguegardUnity.SummaryMenuView" preserve="all" />
-    <type fullname="RoguegardUnity.TextEditorMenuView" preserve="all" />
+    <type fullname="RoguegardUnity.StatsSubView" preserve="all" />
+    <type fullname="RoguegardUnity.SummarySubView" preserve="all" />
+    <type fullname="RoguegardUnity.TextEditorSubView" preserve="all" />
     <type fullname="RoguegardUnity.TileCursor" preserve="all" />
     <type fullname="RoguegardUnity.TitleData" preserve="all" />
     <type fullname="RoguegardUnity.TitleMenu" preserve="all" />
