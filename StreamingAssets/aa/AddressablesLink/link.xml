@@ -111,6 +111,7 @@
     <type fullname="Roguegard.CharacterCreation.TileReferencedItemCreationData" preserve="all" />
     <type fullname="Roguegard.CharacterCreation.WeaponCreationData" preserve="all" />
     <type fullname="Roguegard.CoreEffecterBoneSpriteTables" preserve="all" />
+    <type fullname="Roguegard.CoreFacials" preserve="all" />
     <type fullname="Roguegard.CoreMotions" preserve="all" />
     <type fullname="Roguegard.CoreObjCommandTable" preserve="all" />
     <type fullname="Roguegard.CoreTiles1" preserve="all" />
@@ -275,6 +276,7 @@
     <type fullname="Roguegard.MaceAttack" preserve="nothing" serialized="true" />
     <type fullname="Roguegard.MedicalHerbBeEaten" preserve="nothing" serialized="true" />
     <type fullname="Roguegard.MeltAttack" preserve="nothing" serialized="true" />
+    <type fullname="Roguegard.MotionGrapherBeApplied" preserve="nothing" serialized="true" />
     <type fullname="Roguegard.MovableObstacleBeApplied" preserve="nothing" serialized="true" />
     <type fullname="Roguegard.NotepadBeApplied" preserve="nothing" serialized="true" />
     <type fullname="Roguegard.OmnivoreEat" preserve="nothing" serialized="true" />
@@ -328,6 +330,9 @@
     <type fullname="RoguegardUnity.CharacterCreationViewElementButton" preserve="all" />
     <type fullname="RoguegardUnity.ColorPreset" preserve="all" />
     <type fullname="RoguegardUnity.CreditData" preserve="all" />
+    <type fullname="RoguegardUnity.DopesheetLane" preserve="all" />
+    <type fullname="RoguegardUnity.DopesheetSubView" preserve="all" />
+    <type fullname="RoguegardUnity.FaceSubView" preserve="all" />
     <type fullname="RoguegardUnity.ForwardCursor" preserve="all" />
     <type fullname="RoguegardUnity.HeaderController" preserve="all" />
     <type fullname="RoguegardUnity.HPGauge" preserve="all" />
@@ -528,6 +533,7 @@
   </assembly>
   <assembly fullname="Roguegard.Rgpacks">
     <type fullname="Roguegard.Rgpacks.ChartPadBeApplied" preserve="nothing" serialized="true" />
+    <type fullname="Roguegard.Rgpacks.EffectStickerBeApplied" preserve="nothing" serialized="true" />
     <type fullname="Roguegard.Rgpacks.EvtFairyBeApplied" preserve="nothing" serialized="true" />
     <type fullname="Roguegard.Rgpacks.KyarakuriClayBeApplied" preserve="nothing" serialized="true" />
     <type fullname="Roguegard.Rgpacks.KyarakuriFigurineBeApplied" preserve="nothing" serialized="true" />
