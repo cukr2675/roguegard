@@ -267,7 +267,7 @@
     <type fullname="Roguegard.HerbOfSleepingBeEaten" preserve="nothing" serialized="true" />
     <type fullname="Roguegard.HerbOfVisionBeEaten" preserve="nothing" serialized="true" />
     <type fullname="Roguegard.HungerAttack" preserve="nothing" serialized="true" />
-    <type fullname="Roguegard.HurtTrapBeApplied" preserve="nothing" serialized="true" />
+    <type fullname="Roguegard.HurtTrapBeSteppedOn" preserve="nothing" serialized="true" />
     <type fullname="Roguegard.InediateEat" preserve="nothing" serialized="true" />
     <type fullname="Roguegard.LayingKitBeApplied" preserve="nothing" serialized="true" />
     <type fullname="Roguegard.LobbyDoorBeApplied" preserve="nothing" serialized="true" />
@@ -280,13 +280,13 @@
     <type fullname="Roguegard.MovableObstacleBeApplied" preserve="nothing" serialized="true" />
     <type fullname="Roguegard.NotepadBeApplied" preserve="nothing" serialized="true" />
     <type fullname="Roguegard.OmnivoreEat" preserve="nothing" serialized="true" />
-    <type fullname="Roguegard.PaintTrapBeApplied" preserve="nothing" serialized="true" />
+    <type fullname="Roguegard.PaintTrapBeSteppedOn" preserve="nothing" serialized="true" />
     <type fullname="Roguegard.ParalyzeAttack" preserve="nothing" serialized="true" />
     <type fullname="Roguegard.PartyBoardBeApplied" preserve="nothing" serialized="true" />
     <type fullname="Roguegard.PickUpObjCommand" preserve="nothing" serialized="true" />
     <type fullname="Roguegard.PoisonAttack" preserve="nothing" serialized="true" />
     <type fullname="Roguegard.PoisonousHerbBeEaten" preserve="nothing" serialized="true" />
-    <type fullname="Roguegard.PoolBeApplied" preserve="nothing" serialized="true" />
+    <type fullname="Roguegard.PoolBeSteppedOn" preserve="nothing" serialized="true" />
     <type fullname="Roguegard.PostboxBeApplied" preserve="nothing" serialized="true" />
     <type fullname="Roguegard.PostboxOpen" preserve="nothing" serialized="true" />
     <type fullname="Roguegard.PotionOfVisionBeEaten" preserve="nothing" serialized="true" />
@@ -294,8 +294,8 @@
     <type fullname="Roguegard.PutObjCommand" preserve="nothing" serialized="true" />
     <type fullname="Roguegard.QuestBoardBeApplied" preserve="nothing" serialized="true" />
     <type fullname="Roguegard.QuestBoardOpen" preserve="nothing" serialized="true" />
-    <type fullname="Roguegard.QuicksandTrapBeApplied" preserve="nothing" serialized="true" />
-    <type fullname="Roguegard.RandomTrapBeApplied" preserve="nothing" serialized="true" />
+    <type fullname="Roguegard.QuicksandTrapBeSteppedOn" preserve="nothing" serialized="true" />
+    <type fullname="Roguegard.RandomTrapBeSteppedOn" preserve="nothing" serialized="true" />
     <type fullname="Roguegard.RogueDungeonGenerator/TileArray" preserve="nothing" serialized="true" />
     <type fullname="Roguegard.RustAttack" preserve="nothing" serialized="true" />
     <type fullname="Roguegard.ScrollOfCleansingBeApplied" preserve="nothing" serialized="true" />
@@ -305,11 +305,11 @@
     <type fullname="Roguegard.SeatBeApplied" preserve="nothing" serialized="true" />
     <type fullname="Roguegard.SewingMachineBeApplied" preserve="nothing" serialized="true" />
     <type fullname="Roguegard.ShotObjCommand" preserve="nothing" serialized="true" />
-    <type fullname="Roguegard.SpoilFoodTrapBeApplied" preserve="nothing" serialized="true" />
+    <type fullname="Roguegard.SpoilFoodTrapBeSteppedOn" preserve="nothing" serialized="true" />
     <type fullname="Roguegard.SpriteMotionSetData/Item" preserve="nothing" serialized="true" />
     <type fullname="Roguegard.StandardLevelInfo" preserve="nothing" serialized="true" />
     <type fullname="Roguegard.SubmachineGunThrow" preserve="nothing" serialized="true" />
-    <type fullname="Roguegard.ThronsTrapBeApplied" preserve="nothing" serialized="true" />
+    <type fullname="Roguegard.ThronsTrapBeSteppedOn" preserve="nothing" serialized="true" />
     <type fullname="Roguegard.ThrowObjCommand" preserve="nothing" serialized="true" />
     <type fullname="Roguegard.VehicleLocate" preserve="nothing" serialized="true" />
     <type fullname="Roguegard.VehiclePolymorph" preserve="nothing" serialized="true" />
