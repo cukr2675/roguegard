@@ -18,12 +18,18 @@
     <type fullname="HSVPicker.ColorPickerSetup/UiElements" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="ListingMenuFoundation, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="ListingMF.Audio.AudioPlayTable" preserve="all" />
+    <type fullname="ListingMF.Audio.WebOtherAudioPlayHandler" preserve="all" />
     <type fullname="ListingMF.ButtonViewElement" preserve="all" />
     <type fullname="ListingMF.ColorPickerSubView" preserve="all" />
+    <type fullname="ListingMF.ContentSizeHeaderViewWidget" preserve="all" />
+    <type fullname="ListingMF.CursorCollider" preserve="all" />
     <type fullname="ListingMF.CursorImageSystem" preserve="all" />
     <type fullname="ListingMF.ElementsViewAnimator" preserve="all" />
     <type fullname="ListingMF.GridSubView" preserve="all" />
     <type fullname="ListingMF.InputFieldViewWidget" preserve="all" />
+    <type fullname="ListingMF.KeyBindStyleSheet" preserve="all" />
+    <type fullname="ListingMF.KeyIcon" preserve="all" />
     <type fullname="ListingMF.LabelViewElement" preserve="all" />
     <type fullname="ListingMF.LabelViewWidget" preserve="all" />
     <type fullname="ListingMF.LongMessageSubView" preserve="all" />
@@ -37,8 +43,10 @@
     <type fullname="ListingMF.TwoLayerPanel" preserve="all" />
     <type fullname="ListingMF.ViewWidgetFactory" preserve="all" />
     <type fullname="ListingMF.WidgetsSubView" preserve="all" />
+    <type fullname="ListingMF.Audio.AudioPlayTable/Item" preserve="nothing" serialized="true" />
     <type fullname="ListingMF.ElementsViewAnimator/PlayObjectEvent" preserve="nothing" serialized="true" />
     <type fullname="ListingMF.ElementsViewAnimator/PlayStringEvent" preserve="nothing" serialized="true" />
+    <type fullname="ListingMF.KeyBindStyleSheet/Binding" preserve="nothing" serialized="true" />
     <type fullname="ListingMF.MessageBox/ReachHiddenLinkEvent" preserve="nothing" serialized="true" />
     <type fullname="ListingMF.MessageBoxSubView/EndSpeechEvent" preserve="nothing" serialized="true" />
     <type fullname="ListingMF.MessageBoxSubView/StartSpeechEvent" preserve="nothing" serialized="true" />
@@ -49,6 +57,26 @@
     <type fullname="Objforming.Unity.RuntimeInspector.InputElement" preserve="all" />
     <type fullname="Objforming.Unity.RuntimeInspector.LinkElement" preserve="all" />
     <type fullname="Objforming.Unity.RuntimeInspector.ToggleElement" preserve="all" />
+  </assembly>
+  <assembly fullname="OchalikeSprites, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="OchalikeSprites.BoneKeywordData" preserve="all" />
+    <type fullname="OchalikeSprites.OchalikeMorphData" preserve="all" />
+    <type fullname="OchalikeSprites.OchalikeSpriteData" preserve="all" />
+    <type fullname="OchalikeSprites.Rotatable1To8SpriteMotionData" preserve="all" />
+    <type fullname="OchalikeSprites.RotatableLoopSpriteMotionData" preserve="all" />
+    <type fullname="OchalikeSprites.RotatableSpriteMotionData" preserve="all" />
+    <type fullname="OchalikeSprites.SymmetricalSpritePoseSourceData" preserve="all" />
+    <type fullname="OchalikeSprites.BoneSprite" preserve="nothing" serialized="true" />
+    <type fullname="OchalikeSprites.ColorRangedBoneSprite" preserve="nothing" serialized="true" />
+    <type fullname="OchalikeSprites.OchalikeMorphData/BoneSpriteColorPair" preserve="nothing" serialized="true" />
+    <type fullname="OchalikeSprites.OchalikeMorphData/Item" preserve="nothing" serialized="true" />
+    <type fullname="OchalikeSprites.OchalikeSpriteData/Bone" preserve="nothing" serialized="true" />
+    <type fullname="OchalikeSprites.Rotatable1To8SpriteMotionData/Item" preserve="nothing" serialized="true" />
+    <type fullname="OchalikeSprites.RotatableLoopSpriteMotionData/Item" preserve="nothing" serialized="true" />
+    <type fullname="OchalikeSprites.RotatableSpriteMotionData/Item" preserve="nothing" serialized="true" />
+    <type fullname="OchalikeSprites.SymmetricalSpritePoseSourceData/BackItem" preserve="nothing" serialized="true" />
+    <type fullname="OchalikeSprites.SymmetricalSpritePoseSourceData/Item" preserve="nothing" serialized="true" />
+    <type fullname="OchalikeSprites.SymmetricalSpritePoseSourceData/ReorderItem" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="Roguegard, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="Roguegard.KeywordData" preserve="all" />
@@ -110,10 +138,10 @@
     <type fullname="Roguegard.CharacterCreation.TileLayingCreationData" preserve="all" />
     <type fullname="Roguegard.CharacterCreation.TileReferencedItemCreationData" preserve="all" />
     <type fullname="Roguegard.CharacterCreation.WeaponCreationData" preserve="all" />
-    <type fullname="Roguegard.CoreEffecterBoneSpriteTables" preserve="all" />
     <type fullname="Roguegard.CoreFacials" preserve="all" />
     <type fullname="Roguegard.CoreMotions" preserve="all" />
     <type fullname="Roguegard.CoreObjCommandTable" preserve="all" />
+    <type fullname="Roguegard.CoreOchalikeMorphs" preserve="all" />
     <type fullname="Roguegard.CoreTiles1" preserve="all" />
     <type fullname="Roguegard.DeviceKw" preserve="all" />
     <type fullname="Roguegard.EffectCategoryKw" preserve="all" />
@@ -349,7 +377,6 @@
     <type fullname="RoguegardUnity.RogueLocalizedStringTable" preserve="all" />
     <type fullname="RoguegardUnity.RogueSpriteRendererPool" preserve="all" />
     <type fullname="RoguegardUnity.RogueTilemapRenderer" preserve="all" />
-    <type fullname="RoguegardUnity.SoundTable" preserve="all" />
     <type fullname="RoguegardUnity.StandardRogueDeviceInspector" preserve="all" />
     <type fullname="RoguegardUnity.StatsSubView" preserve="all" />
     <type fullname="RoguegardUnity.SummarySubView" preserve="all" />
@@ -363,7 +390,6 @@
     <type fullname="RoguegardUnity.ColorPreset/Item" preserve="nothing" serialized="true" />
     <type fullname="RoguegardUnity.RogueAssetTable/Item" preserve="nothing" serialized="true" />
     <type fullname="RoguegardUnity.RogueDirectionalSpriteTable" preserve="nothing" serialized="true" />
-    <type fullname="RoguegardUnity.SoundTable/Item" preserve="nothing" serialized="true" />
     <type fullname="RoguegardUnity.WindowFrameList/Item" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="RuntimeDotter, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
@@ -372,26 +398,6 @@
     <type fullname="RuntimeDotter.DotterHoldButton" preserve="all" />
     <type fullname="RuntimeDotter.DotterPaletteView" preserve="all" />
     <type fullname="RuntimeDotter.DotterToolSet" preserve="all" />
-  </assembly>
-  <assembly fullname="SDSkeletalSprite, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-    <type fullname="SDSSprite.BoneKeywordData" preserve="all" />
-    <type fullname="SDSSprite.EffecterBoneSpriteTableData" preserve="all" />
-    <type fullname="SDSSprite.Rotatable1To8SpriteMotionData" preserve="all" />
-    <type fullname="SDSSprite.RotatableLoopSpriteMotionData" preserve="all" />
-    <type fullname="SDSSprite.RotatableSpriteMotionData" preserve="all" />
-    <type fullname="SDSSprite.SkeletalSpriteData" preserve="all" />
-    <type fullname="SDSSprite.SymmetricalSpritePoseSourceData" preserve="all" />
-    <type fullname="SDSSprite.BoneSprite" preserve="nothing" serialized="true" />
-    <type fullname="SDSSprite.ColorRangedBoneSprite" preserve="nothing" serialized="true" />
-    <type fullname="SDSSprite.EffecterBoneSpriteTableData/BoneSpriteColorPair" preserve="nothing" serialized="true" />
-    <type fullname="SDSSprite.EffecterBoneSpriteTableData/Item" preserve="nothing" serialized="true" />
-    <type fullname="SDSSprite.Rotatable1To8SpriteMotionData/Item" preserve="nothing" serialized="true" />
-    <type fullname="SDSSprite.RotatableLoopSpriteMotionData/Item" preserve="nothing" serialized="true" />
-    <type fullname="SDSSprite.RotatableSpriteMotionData/Item" preserve="nothing" serialized="true" />
-    <type fullname="SDSSprite.SkeletalSpriteData/Node" preserve="nothing" serialized="true" />
-    <type fullname="SDSSprite.SymmetricalSpritePoseSourceData/BackItem" preserve="nothing" serialized="true" />
-    <type fullname="SDSSprite.SymmetricalSpritePoseSourceData/Item" preserve="nothing" serialized="true" />
-    <type fullname="SDSSprite.SymmetricalSpritePoseSourceData/ReorderItem" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="Unity.2D.Tilemap.Extras, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.RuleTile" preserve="all" />
@@ -508,6 +514,7 @@
     <type fullname="UnityEngine.UI.RectMask2D" preserve="all" />
     <type fullname="UnityEngine.UI.Scrollbar" preserve="all" />
     <type fullname="UnityEngine.UI.ScrollRect" preserve="all" />
+    <type fullname="UnityEngine.UI.Selectable" preserve="all" />
     <type fullname="UnityEngine.UI.Slider" preserve="all" />
     <type fullname="UnityEngine.UI.Text" preserve="all" />
     <type fullname="UnityEngine.UI.Toggle" preserve="all" />
